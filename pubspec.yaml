@@ -1,0 +1,17 @@
+name: qrlink_flux
+description: A Flutter package for generating dynamic QR codes from file URLs (image, video, PDF, ZIP), with optional auto-refresh.
+version: 0.0.1
+homepage: https://github.com/OmkarWalunj/qrlink_flux.git
+repository: https://github.com/OmkarWalunj/qrlink_flux.git
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  qr_flutter: ^4.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
